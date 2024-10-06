@@ -6,7 +6,7 @@
         body {
             background-image: url(Soph.png);
             background-size:200px;
-            background-color:rgb(252, 252, 252)
+            background-color:RGB(399, 252, 252)
             font-family: Helvetica, Arial, 
         }
     </style>
